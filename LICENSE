@@ -1,0 +1,46 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+附加原创作者防滥用、防盈利倒卖与防抄袭特别声明
+
+Copyright (c) 2026 StarfallMark (https://github.com/StarfallMark)
+All Rights Reserved under the terms below.
+
+===========================================================================
+一、 核心版权与授权声明（中文版，具同等约束力）
+===========================================================================
+
+本项目（包括但不限于《AI Bot 高拟人人设提示词设计教程》Word 文档、讨论记录、构建脚本、
+`persona-prompt-designer` Skill 技能包及其全部原创方法论体系）由作者 StarfallMark 原创设计并发布。
+
+1. 【严禁任何形式的商业盈利滥用（Non-Commercial Only）】
+   本项目仅供个人免费学习、研究与非商业性质的技术交流使用。
+   未经原作者 StarfallMark 书面授权，严禁任何个人、团队或组织将本项目（或基于本项目的衍生作品、
+   通过本 Skill 批量生成的人设产品）用于任何直接或间接的商业盈利行为，包括但不限于：
+   - 在闲鱼、淘宝、拼多多、小红书、B站工房、爱发电、知识星球等平台进行收费倒卖或变相售卖；
+   - 作为付费课程、付费训练营、付费社群、付费代写人设服务的素材或工具牟利；
+   - 集成或内置于任何商业收费软件、付费 Bot 平台、付费 API 服务中。
+
+2. 【严禁抄袭、洗稿与抹除署名（Attribution Required & Anti-Plagiarism）】
+   任何非商业性质的转载、引用、二次修改或衍生分发，必须在作品显眼位置完整保留：
+   - 原创作者署名：StarfallMark
+   - 原项目 GitHub 仓库链接：https://github.com/StarfallMark
+   - 本防滥用与非商业使用声明全文。
+   严禁抹除作者信息、严禁替换署名冒充原创、严禁通过同义词替换或微调结构进行“洗稿”搬运。
+
+3. 【相同方式共享（ShareAlike）】
+   如果您在遵守上述非商业与署名要求的前提下对本项目进行了修改或衍生创作，您必须采用与本协议
+   完全相同的许可条款（CC BY-NC-SA 4.0 及本附加声明）分发您的贡献内容。
+
+===========================================================================
+II. Summary of CC BY-NC-SA 4.0 Terms
+===========================================================================
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit to StarfallMark, provide a link to the license and original repository, and indicate if changes were made.
+- NonCommercial — You may not use the material for commercial purposes or monetary compensation.
+- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+Full legal code: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode

@@ -1,0 +1,7 @@
+# Word 临时锁文件与 Python 缓存
+~$*.docx
+__pycache__/
+*.pyc
+
+# 本地运行环境缓存目录
+.dsh/
